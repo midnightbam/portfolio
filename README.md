@@ -29,7 +29,7 @@ It provides a smooth and responsive interface built with **FantaCSS**, allowing 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/midnightbam/portfolio.git
-cd portfolio
+cd portfolio/full-stack-course/2_brogram
 ```
 
 ### 2️⃣ Install dependencies
