@@ -27,18 +27,25 @@ It provides a smooth and responsive interface built with **FantaCSS**, allowing 
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the repository
+```bash
 git clone https://github.com/midnightbam/portfolio.git
-cd full-stack-course/2_brogram
+cd portfolio
+```
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
+```bash
 npm install
+```
 
-3️⃣ Run locally
+### 3️⃣ Run locally
+```bash
 npm run dev
+```
 
-4️⃣ Build for production
-npm run build ```
+### 4️⃣ Build for production
+```bash
+npm run build
+```
 
-🌍 Live Demo
-
-👉 (`[View the live site here](https://workout-plan-brogram.netlify.app/)`)
+## 🌍 Live Demo
+👉 [View the live site here](https://workout-plan-brogram.netlify.app/)
