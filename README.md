@@ -28,7 +28,7 @@ It provides a smooth and responsive interface built with **FantaCSS**, allowing 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/midnightbam/portfolio.git
+git clone https://github.com/midnightbam/workout-plan.git
 cd portfolio/full-stack-course/2_brogram
 ```
 
